@@ -1,1 +1,1 @@
-# Project-1
+Farmers Friend : Intelligent Crop Assistant
